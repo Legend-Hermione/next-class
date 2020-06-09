@@ -1,1 +1,1 @@
-# next-class
+# Box Class
